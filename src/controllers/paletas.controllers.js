@@ -1,1 +1,0 @@
-const paletaServices = require('../services/paletas.services')
