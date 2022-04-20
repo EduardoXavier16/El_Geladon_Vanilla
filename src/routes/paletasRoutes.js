@@ -1,5 +1,5 @@
 const express = require('express');
-const router = exprex.Router();
+const router = express.Router();
 
 const paletasControllers = require('../controllers/paletasControllers');
 
